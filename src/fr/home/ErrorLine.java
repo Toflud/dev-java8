@@ -1,7 +1,7 @@
 package fr.home;
 
 /**
-* Created by cpe on 28/10/2014.
+* Pull request
 */
 public class ErrorLine {
     private final String error ;
